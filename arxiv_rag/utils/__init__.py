@@ -1,0 +1,3 @@
+from .config import DEFAULT_MODEL, MAX_RESULTS, CHUNK_SIZE
+
+__all__ = ['DEFAULT_MODEL', 'MAX_RESULTS', 'CHUNK_SIZE']
