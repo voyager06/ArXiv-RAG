@@ -40,7 +40,7 @@ Relevant chunks are retrieved using vector similarity.
 
 A prompt is constructed with context + question.
 
-An LLM (via OpenAI) generates the final answer.
+An LLM generates the final answer.
 
 Results are displayed instantly via Streamlit UI.
 
